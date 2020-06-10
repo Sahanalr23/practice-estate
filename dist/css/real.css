@@ -1,0 +1,298 @@
+*{
+	margin:auto;
+	padding:0px;
+}
+.case1{
+	background-color:;
+	height:100px;
+}
+.case2{
+	color:white;
+	font-weight:bold;
+	font-size:20px;
+	margin-top:20px;
+	font-family:algerian;
+}
+.case3 {
+	margin:auto;
+}
+.case4 {
+	margin:auto;
+}
+.case5 {
+	margin:auto;
+}
+.case3 h3{
+	font-weight:bold;
+	color:white;
+	font-size:40px;
+	position:absolute;
+	top:40%;
+	margin-left:20px;
+}
+.case3 h4{
+	position:absolute;
+	top:65%;
+	color:white;
+	padding:10px;
+	font-size:20px;
+	border:2px ridge lime;
+	border-radius:25px 25px 25px 25px;
+	margin-left:20px;
+}
+
+.case4 h3{
+	font-weight:bold;
+	color:white;
+	font-size:40px;
+	position:absolute;
+	top:40%;
+	margin-left:20px;
+}
+.case4 h4{
+	position:absolute;
+	top:65%;
+	color:white;
+	padding:10px;
+	font-size:20px;
+	border:2px ridge limegreen;
+	border-radius:25px 25px 25px 25px;
+	margin-left:20px;
+}
+.case5 h3{
+	font-weight:bold;
+	color:white;
+	font-size:40px;
+	position:absolute;
+	top:40%;
+	margin-left:20px;
+}
+.case5 h4{
+	position:absolute;
+	top:65%;
+	color:white;
+	padding:10px;
+	font-size:20px;
+	border:2px ridge limegreen;
+	border-radius:25px 25px 25px 25px;
+	margin-left:20px;
+}
+.case6{
+    margin-top:10%;		
+}
+.case6 h1{
+	margin-left:10%;
+	font-weight:bold;
+	color:darkblack;
+	font-size:45px;
+	border-left:4px ridge limegreen;
+	border-radius:5px 5px 5px 5px;
+	padding:13px;
+}
+.case7 img{
+	height:400px;
+	margin-left:70px;
+	width:80%;
+	margin-top:10px;
+	padding:10px;
+}
+.case8 h1{
+	font-size:30px;
+	font-weight:bold;
+	color:green;
+	font-family:forte;
+}
+
+.case8 p{
+	font-size:20px;
+	width:80%;
+	padding:20px;
+	font-family:highpowertext;
+}
+.case9{
+	font-weight:bold;
+	font-size:40px;
+	margin-left:30px;
+	color:darkblack;
+}
+.case10 h1
+{
+   font-weight:bold;
+   font-size:35px;
+   margin-left:50px;
+   padding:10px;  
+}
+.case10 p{
+	margin-left:50px;
+	padding:10px;
+	font-size:20px;
+	font-family:calibri;
+}
+.case10 h4{
+	margin-left:55px;
+	font-size:20px;
+	font-family:calibri;
+	padding:3px;
+}
+.case11 h1{
+	font-weight:bold;
+	font-size:35px;
+	padding:10px;
+	margin-left:70px;
+}
+.case11 p{
+	padding:3px;
+	font-family:calibri;
+	font-size:20px;
+	margin-left:80px;
+}
+.case11 a{
+	color:black;
+}
+.case11 a:hover {
+	color:orangered;
+}
+.style {
+	margin-right:10px;
+
+}
+.case12 h1{
+	font-weight:bold;
+	font-size:35px;
+	padding:10px;
+	margin-left:20px;
+}
+.case12 p{
+	padding:3px;
+	font-family:calibri;
+	font-size:20px;
+	margin-left:30px;
+}
+.case12 a{
+	color:black;
+}
+.case12 a:hover {
+	color:orangered;
+}
+.case13 a{
+	text-align:center;
+	padding:10px;
+	color:black;
+	font-size:15px;
+	margin-top:20px;
+	
+}
+.case13 a:hover {
+	color:orangered;
+}
+.case14 a{
+	padding:10px;
+	margin-top:20px;
+	margin-left:20px;
+	font-size:25px;
+	color:orangered;
+} 
+.case14 a:hover {
+	color:green;
+}
+.case15 ul{
+	border-top:3px ridge lime;
+	width:70px;
+}
+.case15 li a{
+	font-weight:bold;
+	font-family:calibri;
+	font-size:17px;
+	padding:12px;
+	color:darkblack;
+}
+.case15 hover{
+	position:relative;
+	display:inblock;
+}
+.case16 h1{
+	  font-weight:bold;
+	  padding:10px;
+	  margin-top:20px;
+	  margin-left:5%;
+}
+.case16 img{ 
+	height:350px;
+	width:400px;
+	background-color:yellow;
+}
+.case16 a{
+    color:white;
+	font-size:25px;
+	color:orangered;
+}
+.case16 h3{
+	font-weight:bold;
+	margin-left:20px;
+	margin-top:-10px;
+}
+.case16 a:hover{
+	color:green;
+}
+.case6{
+    margin-top:10%;		
+}
+.case6 h1{
+	margin-left:10%;
+	font-weight:bold;
+	color:darkblack;
+	font-size:40px;
+	border-left:4px ridge limegreen;
+	border-radius:5px 5px 5px 5px;
+	padding:13px;
+}
+.case6 p{
+	margin-left:10%;
+	padding:15px;
+    font-weight:normal;
+	font-size:18px;
+	margin-left:-1%;
+}
+.case17 {
+	height:400px;
+	width:300px;
+}
+.case18 {
+	height:400px;
+	width:300px;
+}
+.case19 {
+	height:400px;
+	width:300px;
+}
+.caseT{
+	position:relative;
+	padding:0px;
+	display:block;
+	cursor:pointer;
+	overflow:hidden;
+}
+.caseQ {
+	opacity:0;
+	font-size:25px;
+	position:absolute;
+	top:0;
+	left:0;
+	height:400px;
+	background-color:green;
+	transition:2s;
+}
+.caseT .caseQ:hover {
+	height:0;
+	opacity:1;
+	transition-DELAY:0S;
+	transition-duration:0.4s;
+}
+.case20{
+	position:relative;
+	left:50px;
+}
+.case21{
+	position:relative;
+	right:50px;
+}
